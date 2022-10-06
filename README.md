@@ -1,2 +1,2 @@
-# SmartParkingLotAppApplication
+# smartParkingLotApp
  
